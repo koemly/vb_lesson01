@@ -1,2 +1,13 @@
 C:\Users\dell\AppData\Local\Temporary Projects\Lesson01\bin\Debug\Lesson01.exe.config
 D:\VB.net Lesson\vb_lesson01\Lesson01\Lesson01\bin\Debug\Lesson01.exe.config
+D:\VB.net Lesson\vb_lesson01\Lesson01\Lesson01\bin\Debug\Lesson01.exe
+D:\VB.net Lesson\vb_lesson01\Lesson01\Lesson01\bin\Debug\Lesson01.pdb
+D:\VB.net Lesson\vb_lesson01\Lesson01\Lesson01\bin\Debug\Lesson01.xml
+D:\VB.net Lesson\vb_lesson01\Lesson01\Lesson01\obj\Debug\Lesson01.frmLesson01.resources
+D:\VB.net Lesson\vb_lesson01\Lesson01\Lesson01\obj\Debug\Lesson01.Resources.resources
+D:\VB.net Lesson\vb_lesson01\Lesson01\Lesson01\obj\Debug\Lesson01.vbproj.GenerateResource.Cache
+D:\VB.net Lesson\vb_lesson01\Lesson01\Lesson01\obj\Debug\Lesson01.exe
+D:\VB.net Lesson\vb_lesson01\Lesson01\Lesson01\obj\Debug\Lesson01.xml
+D:\VB.net Lesson\vb_lesson01\Lesson01\Lesson01\obj\Debug\Lesson01.pdb
+D:\VB.net Lesson\vb_lesson01\Lesson01\Lesson01\obj\Debug\Lesson01.Form2.resources
+D:\VB.net Lesson\vb_lesson01\Lesson01\Lesson01\obj\Debug\Lesson01.vbprojResolveAssemblyReference.cache
