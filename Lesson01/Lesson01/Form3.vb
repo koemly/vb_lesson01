@@ -57,4 +57,8 @@
         i.Text = txt_id.Text
         i.SubItems.Item(2).Text = txt_score.Text
     End Sub
+
+    Private Sub Form3_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
 End Class

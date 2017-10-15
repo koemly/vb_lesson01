@@ -133,7 +133,7 @@ Partial Class Form3
         Me.lv_name.Columns.AddRange(New System.Windows.Forms.ColumnHeader() {Me.ColumnHeader1, Me.ColumnHeader2, Me.ColumnHeader3, Me.ColumnHeader4})
         Me.lv_name.Location = New System.Drawing.Point(242, 57)
         Me.lv_name.Name = "lv_name"
-        Me.lv_name.Size = New System.Drawing.Size(425, 309)
+        Me.lv_name.Size = New System.Drawing.Size(425, 213)
         Me.lv_name.TabIndex = 10
         Me.lv_name.UseCompatibleStateImageBehavior = False
         Me.lv_name.View = System.Windows.Forms.View.Details
@@ -171,7 +171,7 @@ Partial Class Form3
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(709, 392)
+        Me.ClientSize = New System.Drawing.Size(709, 314)
         Me.Controls.Add(Me.btn_edite)
         Me.Controls.Add(Me.lv_name)
         Me.Controls.Add(Me.btn_delet)
